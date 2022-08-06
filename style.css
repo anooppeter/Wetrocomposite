@@ -1,0 +1,522 @@
+.navbar{
+    background: rgba(0, 0, 0, 0.5);
+}
+.btn{
+    margin: 0 2% 0 35%;
+    color: aliceblue;
+    
+    
+}
+.one{
+    border: none;
+    background:none;
+    color: rgba(240, 248, 255, 0.768);
+    
+}
+  
+  #myVideo {
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  #myVideotwo{
+    position: absolute;
+    z-index: -1;
+  }
+  .subvideo{
+    width: 100%;
+    height: 330px;
+  }
+  .content {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    height: 78%;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #myBtnn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: 2px solid white;
+    background: rgba(227, 222, 222, 0.004);
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #myBtn:hover {
+    background: #ddd;
+    color: black;
+  }
+  .about{
+    height: 450px;
+    width: 100%;
+    margin: 38% 0 0 0;
+  }
+  .aboutleft{
+    height: 430px;
+    width: 40%;
+    float: left;
+  }
+  .verticalline{
+    width: 0;
+    height: 30%;
+    border: 1px solid black;
+    margin: 10% 0 0 8%;
+    position: absolute;
+  }
+  .aboutheading{
+    margin: 30% 0 0 25%;
+  }
+  .aboutright{
+    width: 60%;
+    height: 400px;
+    float: left;
+
+  }
+  .quality{
+    width: 100%;
+    height: 550px;
+    background-color: #eeeeee;
+  }
+  .qleft{
+    width: 44%;
+    height: 550px;
+    float: left;
+  }
+  .qright{
+    width: 54%;
+    height: 550px;
+    float: left;
+  }
+  .qpara{
+    width: 87%;
+    margin: 8% 0 0 16%;
+  }
+  .applicationservices{
+    height: 240px;
+    width: 100%;
+    margin-top: 6%;
+    background-color: #eeeeee;
+    padding-top: 2%;
+  }
+  .application{
+    border-right: 2px solid rgba(51, 51, 49, 0.936);
+    height: 180px;
+    width: 50%;
+    float: left;
+  }
+  .services{
+    height: 180px;
+    width: 50%;
+    float: left;
+  }
+  .appbutton{
+    width: 280px;
+    height: 60px;
+    color: rgb(29, 26, 26);
+    font-size: 2rem;
+    border: none;
+    float: right;
+    margin: 8%;
+  }
+  .servicebutton{
+    width: 280px;
+    height: 60px;
+    color: rgb(29, 26, 26);
+    font-size: 2rem;
+    border: none;
+    margin: 8%;
+  }
+ 
+  .leftprocess{
+    float: left;
+    width: 40%;
+    margin-top: 5%;
+  }
+  .rightprocess{
+    float: left;
+    width: 60%;
+    margin-top: 5%;
+  }
+  .processline{
+    width: 0;
+    height: 80px;
+    float: left;
+    margin: 10% 0 10% 15%;
+    border: 1px solid rgb(29, 26, 26);
+  }
+  .planning{
+    width: 50%;
+    float: left;
+  }
+  .development{
+    width: 50%;
+    float: left;
+  }
+  .design{
+    width: 50%;
+    float: left;
+  }
+  .launch{
+    width: 50%;
+    float: left;
+  }
+  .gallery{
+    height: 600px;
+    margin: 25% 0 0 0;
+  }
+  .testimonial{
+    border: 10px solid black;
+    margin: 1%;
+
+  }
+  .leftarea{
+    width: 49%;
+    float: left;
+  }
+  .areaservice{
+    margin-top: 4%;
+  } 
+  .hea{
+    float: left;
+    margin: 14% 0 0 0;
+  }
+  .serviceline{
+    border: 1px solid rgb(50, 48, 48);
+    height: 160px;
+    width:0;
+    margin: 10% 3% 0 16%;
+    float: left;
+  }
+  .details{
+    width: 580px;
+    margin: 40% 0 0 18%;
+  }
+  .one{
+    float: left;
+    width: 280px;
+    height: 125px;
+  }
+  .two{
+    float: left;
+    width: 280px;
+    height: 125px;
+  }
+  .three{
+    float: left;
+    width: 280px;
+    height: 125px;
+  }
+  .four{
+    float: left;
+    width: 280px;
+    height: 125px;
+  }
+  .rightarea{
+    width: 49%;
+    float: left;
+  }
+  .newsupdates{
+    padding: 3% 6% 6% 3%;
+    height: 600px;
+    margin-top: 45%;
+  }
+  .newsheading{
+    height: 30%;
+  }
+  .newsline{
+    width: 0;
+    height: 50%;
+    border: 1px solid rgb(50, 49, 49);
+    margin: 1% 0 0 7%;
+  }
+  .newone{
+    height: 20%;
+    margin-bottom: 3%;
+  }
+  .lineone{
+    width: 0;
+    height: 80%;
+    border: 1px solid rgb(50, 49, 49);
+    margin: -5% 0 0 16%;
+  }
+  .newspara{
+    width: 59%;
+    float: right;
+    margin: -6% 0 0 0;
+  }
+  .newstwo{
+    height: 20%;
+    margin-bottom: 3%;
+  }
+  .newsthree{
+    height: 20%;
+    margin-bottom: 3%;
+  }
+  .contemail{
+    padding: 6%;
+    background-color: #ddd;
+  }
+  .submit{
+    width: 15%;
+    height: 42px;
+    border-radius: 3px;
+    background-color: rgb(29, 28, 28);
+    border: none;
+    color: #ddd;
+    float: right;
+  }
+  .clients{
+    padding: 6% 0 1% 0;
+  }
+  .slideclient{
+    padding: 5% 0 5% 0;
+  }
+  .footer{
+    background-color: rgb(47, 46, 46);
+    padding: 3% 5% 1% 3%;
+  }
+  .footersecone{
+    border-bottom: 1px solid #ddd;
+  }
+  .fone{
+    height:340px;
+    width:25%;
+    float: left;
+  }
+  .ftwo{
+    height:340px;
+    width:25%;
+    float: left;
+  }
+  .fthree{
+    height:340px;
+    width:25%;
+    float: left;
+  }
+  .ffour{
+    height:340px;
+    width:25%;
+    margin-left: 75%;
+  }
+  #myBtn{
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+#storagetank{
+  position: absolute;
+  margin: 0 0 4% 0;
+  height: 30%;
+  width: 33.3%;
+  color: #eeeeee;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.838);
+  transition: 2.5s ease;
+}
+/* #myBtn:hover{
+  -ms-transform: scale(2.5);
+  -webkit-transform: scale(2.5); 
+  transform: scale(1.5); 
+  display: block;
+  cursor: pointer;
+} */
+#storagetank:hover{
+  display: block;
+  opacity: 1;
+}
+#blower{
+  position: absolute;
+  margin-left: 33.25%;
+  height: 30%;
+  width: 33.3%;
+  color: #eeeeee;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.838);
+  transition: 2.5s ease;
+}
+#blower:hover{
+  display: block;
+  opacity: 1;
+}
+#damper{
+  position: absolute;
+  margin-left: 66.55%;
+  height: 30%;
+  width: 33.3%;
+  color: #eeeeee;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.838);
+  transition: 2.5s ease;
+}
+#damper:hover{
+  display: block;
+  opacity: 1;
+}
+#duct{
+  position: absolute;
+  margin: 14.55% 0 0 0;
+  height: 30.2%;
+  width: 33.3%;
+  color: #eeeeee;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.838);
+  transition: 2.5s ease;
+}
+#duct:hover{
+  display: block;
+  opacity: 1;
+}
+#scrubber{
+  position: absolute;
+  margin: 14.55% 0 0 33.25%;
+  height: 30.2%;
+  width: 33.3%;
+  color: #eeeeee;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.838);
+  transition: 2.5s ease;
+}
+#scrubber:hover{
+  display: block;
+  opacity: 1;
+}
+#site{
+  position: absolute;
+  margin: 14.55% 0 0 66.55%;
+  height: 30.2%;
+  width: 33.3%;
+  color: #eeeeee;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.838);
+  transition: 2.5s ease;
+}
+#site:hover{
+  display: block;
+  opacity: 1;
+}
+#ladder{
+  position: absolute;
+  margin: 29.2% 0 0 0;
+  height: 30.2%;
+  width: 33.3%;
+  color: #eeeeee;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.838);
+  transition: 2.5s ease;
+}
+#ladder:hover{
+  display: block;
+  opacity: 1;
+}
+#custom{
+  position: absolute;
+  margin: 29.2% 0 0 33.25%;
+  height: 30.2%;
+  width: 33.3%;
+  color: #eeeeee;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.838);
+  transition: 2.5s ease;
+}
+#custom:hover{
+  display: block;
+  opacity: 1;
+}
+  /*CLIENTS*/
+  /* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 2.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+/*MODAL*/
+
